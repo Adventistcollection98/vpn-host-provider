@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "video.cdn.net",
+    "category": "Cloudflare CDN",
+    "network": "Global / Any",
+    "status": "Active"
+  },
+  {
+    "domain": "portal.isp-example.zm",
+    "category": "SNI Host",
+    "network": "MTN Zambia",
+    "status": "Active"
+  },
+  {
+    "domain": "zero.saf-example.ke",
+    "category": "Zero-Rated Bug Host",
+    "network": "Safaricom",
+    "status": "Maintenance"
+  }
+]
