@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class Host {
   final String domain;
   final String category;
